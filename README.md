@@ -5,6 +5,8 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wns5120&layout=compact)
+
 <!--
 **wns5120/wns5120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
