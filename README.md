@@ -1,33 +1,41 @@
-## Hi 👋
+
 
 <!-- 깃허브 stats 나타내는 거 C+ 이라 냅둠 오르면 다시 공개 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wns5120&show_icons=true&theme=dracula) -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&pause=1000&color=3BF7A3&background=FFCFCF00&center=true&vCenter=true&width=1200&height=140&lines=Hi+Welcome+to+HoJun's+GitHub)](https://git.io/typing-svg)
 
 <!-- 언어 비율 나타내는 거 너무 자바밖에 없어서 쪼금 그럼 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wns5120&layout=compact) -->
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwns5120&count_bg=%23000000&title_bg=%23756D6D&icon=spring.svg&icon_color=%2300FF30&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
++조회수 10 감사합니다..
+
++조회수 30 감사합니다 팔로우 신청 받아요!
+
++조회수 50 이게 뭐라고 조회수가... 감사합니다! 여러분
+
++조회수 100 제 인생에서 가장 많이 받아봤어요!!! 다 여러분들 덕분이에요 다들 오류없는 개발 생활 되세요!! 
+<br><br><br>
 
 
+## 🎖 My Tech Stack 
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 💬Language
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+### 🧱FreameWork
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+
+### 📊 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  
+
+### 🎛 Tool 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)  ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -37,31 +45,26 @@
 />
 </a>
 
-<!--
-# ˘ᗜ˘ My-Personal-Projects-Portfolio
-*최종 업데이트: 2024년 11월 04일*  
-
-![최종 타임라인](https://github.com/user-attachments/assets/7dd9bc2b-a66a-427e-9732-31c08649bdf5)
-
-<br>
-
-안녕하세요! 이 레포지토리는 **스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들을 모아놓은 포트폴리오**입니다.😊
-
-<br>
-
-## 🌟 주요 프로젝트
-
-| No | 프로젝트 이름                  | 사진                             | 주요 내용                                        | 링크                                                                       |
-|----|-----------------------------|--------------------------------|-------------------------------------------------|----------------------------------------------------------------------------|
-| 1  | **스마트 부동산 플랫폼**          | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/1a478a66-fc5c-4665-bddc-1c4c9120b63e"> | 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
-| 2  | **EFK 기반 로그 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a"> | 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
-| 3  | **대규모 트래픽 부하 테스트**    | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/fe8e69e6-2e90-4de5-befd-ed633c496f8d"> | JMeter & Grafana로 시스템 성능 검증                    | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)              |
-| 4  | **실시간 시스템 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/229abbcc-7174-46bf-ac48-e186317512bd"> | ELK Stack 기반 실시간 모니터링 대시보드 구축          | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux)         |
-| 5  | **보안 취약점 자동 감지**        | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/bdf5087a-b0ec-4e23-aa1a-ac299837185b"> | Trivy를 활용한 GitHub 코드 스캐닝 & Slack 알림     | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
-
 
 ---
 
+# 📒 My Projects Portfolio
+
+| No | 프로젝트 이름 | 설명 | 주요 기술 | 아이콘 | 링크 |
+|----|---------------|------|-----------|----------|------|
+| 1 | **Ah!chacha** | 학교 내 물품 쉐어링(대여 및 관리) 웹서비스 | Spring boot, EC2, MySQL, AWS S3 | <img src=https://github.com/user-attachments/assets/441d9ab0-28c9-4820-878b-5bbcf5feeabe alt="image" width="120" height="65"> | [GitHub](https://github.com/Ahchacha-CapstoneDesign/BackEnd) |
+| 2 | **HansungCampusLink** | RAG 기술을 이용한 학교 AI - Kiosk | Spring AI, Pinecone, OpenAI | <img src="https://github.com/user-attachments/assets/06ab5ebd-0840-4b4c-9f22-fbe2d321dd89" alt="image" width="120" height="65"> | [GitHub](https://github.com/HansungCampusLink/HansungRag) |
+| 3 | **medi4me** | 건강한 복약 생활을 위한 다제약물 중재 관리 서비스 | Spring boot, EC2, MySQL, OpenAI | <img src="https://github.com/user-attachments/assets/78f9ff19-1ef2-41a7-b3da-44f133b038e7" alt="image" width="120" height="65"> | [GitHub 링크](https://github.com/wns5120/backend_medi) |
+| 4 | **PersonIn8** | 뉴스 정보 기반 데이터로 사용자에게 맞춤형 ETF 추천 및 시각화 | ElasticSearch, Logstash, Kibana, MySQL | <img src="https://github.com/user-attachments/assets/8f8ccbf6-3486-492b-82b3-c9e6dfee4875" alt="image" width="120" height="65"> | [GitHub 링크](https://github.com/DaeHyeonSon/Average-Load-in-Linux) |
+| 5 | **Linux ELK** | 고객 소비 데이터를 기반으로 소비 패턴과 선호도를 분석해 새로운 고객군을 정의하고, 맞춤형 카드 혜택을 제안하는 프로젝트 | Virtual Box, ElasticSearch, Kibana | <img src="https://github.com/user-attachments/assets/1d0ba6f5-714b-4652-9695-3bf67a000cbb" alt="image" width="120" height="65"> | [GitHub 링크](https://github.com/DaeHyeonSon/Docker-Image-Optimization) |
+| 6 | **Netflix Suggest** | JDBC를 이용한 넷플릭스 Dataset CRUD 및   | Docker, Linux, Bash, Trivy, Python, Git | <img src="https://github.com/user-attachments/assets/3647ecc1-a878-414b-96ce-052b84e890d0" alt="image" width="120" height="65"> | [GitHub 링크](https://github.com/DaeHyeonSon/Security-Analysis-Using-Trivy) |
+| 7 | **IglooMarket** | RDBMS를 활용한 정규표현식 SQL문장을 학습 프로젝트 | MySQL, Linux, Virtual Box | <img src="https://github.com/user-attachments/assets/4b5043af-d220-4b59-8beb-41c656e0cfd6" alt="image" width="120" height="65"> | [GitHub 링크](https://github.com/DaeHyeonSon/K8S_Configuration) |
+
+
+
+--- 
+
+<!--
 
 <br>
 
