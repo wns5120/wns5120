@@ -1,11 +1,11 @@
 
 
 <!-- 깃허브 stats 나타내는 거 C+ 이라 냅둠 오르면 다시 공개 -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wns5120&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wns5120&show_icons=true&theme=dracula) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&pause=1000&color=3BF7A3&background=FFCFCF00&center=true&vCenter=true&width=1200&height=140&lines=Hi+Welcome+to+HoJun's+GitHub)](https://git.io/typing-svg)
 
 <!-- 언어 비율 나타내는 거 너무 자바밖에 없어서 쪼금 그럼 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wns5120&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wns5120&layout=compact) 
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwns5120&count_bg=%23000000&title_bg=%23756D6D&icon=spring.svg&icon_color=%2300FF30&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
