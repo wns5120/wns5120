@@ -7,7 +7,7 @@
 <!-- 언어 비율 나타내는 거 너무 자바밖에 없어서 쪼금 그럼 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wns5120&layout=compact) -->
 
-
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwns5120&count_bg=%23000000&title_bg=%23756D6D&icon=spring.svg&icon_color=%2300FF30&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 +조회수 10 감사합니다..
@@ -18,7 +18,7 @@
 
 +조회수 100 제 인생에서 가장 많이 받아봤어요!!! 다 여러분들 덕분이에요 다들 오류없는 개발 생활 되세요!! 
 <br><br><br>
-
+!-->
 
 ## 🎖 My Tech Stack 
 
